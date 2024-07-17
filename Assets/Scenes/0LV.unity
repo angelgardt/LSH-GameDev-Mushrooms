@@ -4115,7 +4115,7 @@ MonoBehaviour:
   disabledInput: 0
   direction: 0
   moveSpeed: 5
-  parryTime: 0.5
+  parryTime: 0.3
   cooldownTime: 0.5
 --- !u!61 &955791264
 BoxCollider2D:
@@ -4176,7 +4176,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f320bf898eb5f3e46908dccd3123e396, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  healthMax: 30
+  healthMax: 90
 --- !u!95 &955791268
 Animator:
   serializedVersion: 4
